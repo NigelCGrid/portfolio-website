@@ -41,7 +41,7 @@ img, object, embed, video {
 	float: none;
 }
 .header_div {
-	background-image: url(/assets/blooms_logo.jpg);
+	background-image: url(./assets/blooms_logo.jpg);
 	background-repeat: no-repeat;
 	height: 110px;
 	margin-top: 10px;
