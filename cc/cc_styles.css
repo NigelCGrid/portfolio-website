@@ -40,7 +40,7 @@ img, object, embed, video {
 	float: none;
 }
 .header_div {
-	background-image: url(assets/cc_logo.gif);
+	background-image: url(./assets/cc_logo.gif);
 	background-repeat: no-repeat;
 	height: 150px;
 	margin-top: 10px;
@@ -213,7 +213,7 @@ hr {
 }
 .header_div {
     margin-top: 10px;
-    background-image: url(../../Images/cc_banner_mobile.jpg);
+    background-image: url(../images/cc_banner_mobile.jpg);
     height: 150px;
 }
 .nav_div {
@@ -260,7 +260,7 @@ margin-left: 0;
 	margin-left: auto;
 }
 .header_div {
-	background-image: url(assets/cc_banner.jpg);
+	background-image: url(./assets/cc_banner.jpg);
 }
 .nav_div {
 width: 30%;
