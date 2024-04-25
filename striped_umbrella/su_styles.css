@@ -43,7 +43,7 @@ img, object, embed, video {
     background-color: #FFFFFF;
 }
 .header_div {
-    background-image: url(assets/su_logo.gif);
+    background-image: url(./assets/su_logo.gif);
     height: 110px;
     margin-top: 10px;
     background-repeat: no-repeat;
@@ -219,7 +219,7 @@ td {
 }
 .header_div {
     margin-top: 10px;
-    background-image: url(assets/su_banner.gif);
+    background-image: url(./assets/su_banner.gif);
     height: 150px;
     background-repeat: repeat-x;
 }
@@ -309,5 +309,5 @@ display: none;
 }
 
 body {
-    background-image: url(../../Images/water.jpg);
+    background-image: url(../images/water.jpg);
 }
