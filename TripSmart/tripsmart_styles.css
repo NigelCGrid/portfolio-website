@@ -41,7 +41,7 @@ img, object, embed, video {
 	float: none;
 }
 .header_div {
-	background-image: url(assets/tripsmart_logo.gif);
+	background-image: url(./assets/tripsmart_logo.gif);
 	background-repeat: no-repeat;
 	height: 70px;
 	margin-top: 10px;
@@ -217,7 +217,7 @@ tr td img {
 }
 .header_div {
 	margin-top: 10px;
-	background-image: url(assets/tripsmart_banner.jpg);
+	background-image: url(./assets/tripsmart_banner.jpg);
 	height: 150px;
 }
 .nav_div {
